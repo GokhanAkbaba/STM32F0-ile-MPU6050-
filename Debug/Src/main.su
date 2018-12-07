@@ -1,0 +1,11 @@
+main.c:163:6:SystemClock_Config	104	static
+main.c:110:5:main	8	static
+main.c:311:8:mov_avg	40	static
+main.c:434:7:sort	16	static
+main.c:387:8:median	24	static
+main.c:445:8:kalman_filter	32	static
+main.c:462:7:read_MPU6050_data	32	static
+main.c:478:7:read_Accolemetre	40	static
+main.c:500:7:read_Gyroscope	32	static
+main.c:219:7:HAL_TIM_PeriodElapsedCallback	40	static
+main.c:530:6:_Error_Handler	0	static
